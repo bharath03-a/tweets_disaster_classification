@@ -1,6 +1,6 @@
 # 🚀 Disaster Tweet Classification Project
 
-![Twitter Logo](https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Twitter-logo.svg/800px-Twitter-logo.svg.png)
+![Twitter Logo](https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg)
 
 ## 📝 Overview
 This project focuses on **Natural Language Processing (NLP)** techniques to classify tweets into two categories:
@@ -45,4 +45,14 @@ The data is sourced from the [Kaggle Competition - NLP Getting Started](https://
 ## 🔧 Installation and Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/bharath03-a/disaster-tweet-classification.git```
+   git clone https://github.com/bharath03-a/disaster-tweet-classification.git
+
+
+## 🛠 Tools and Technologies
+
+- **Programming Language**: Python  
+- **Libraries**:  
+  - **NLP**: `spacy`, `TfidfVectorizer`  
+  - **Machine Learning**: `sklearn`, `xgboost`  
+  - **Visualization**: `matplotlib`, `seaborn`  
+- **Platform**: Google Colab
