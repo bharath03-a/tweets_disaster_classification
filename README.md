@@ -1,7 +1,7 @@
 # 🚀 Disaster Tweet Classification Project
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="Twitter Logo" width="800" height="800">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="Twitter Logo" width="400" height="400">
 </p>
 
 ## 📝 Overview
