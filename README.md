@@ -1,6 +1,6 @@
 # 🚀 Disaster Tweet Classification Project
 
-![Twitter Logo](https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="Twitter Logo" width="50" height="50">
 
 ## 📝 Overview
 This project focuses on **Natural Language Processing (NLP)** techniques to classify tweets into two categories:
